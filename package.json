@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
+  "name": "cutodo",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Some todo",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
