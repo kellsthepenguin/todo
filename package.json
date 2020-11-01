@@ -6,16 +6,8 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
-  "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
-  ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "jwkim101201",
+  "license": "MIT",
   "devDependencies": {
     "electron": "^10.1.5"
   }
