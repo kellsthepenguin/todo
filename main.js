@@ -4,13 +4,17 @@ function createWindow () {
   const window = new BrowserWindow({
     width: 800,
     height: 600,
+    webPreferences: {
+      nodeIntegration: true,
+      enableRemoteModule: true
+    }
   })
 
   window.loadFile('./src/index.html')
 
   // window.webContents.openDevTools()
 }
-  
+
 app.whenReady().then(() => {
   createWindow()
 
