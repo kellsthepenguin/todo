@@ -1,3 +1,3 @@
 # Cutodo
 
-some todo
+at this time, this is not working properly.
